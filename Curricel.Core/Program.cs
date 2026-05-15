@@ -1,27 +1,12 @@
-﻿namespace DefaultNamespace;
+﻿namespace Curricel.Core;
 
 public class Program
 {
     public void Main()
     {
-        Console.WriteLine("Curricel.Core is starting");
-
-        Console.WriteLine("Starting tests");
-
-        # Testing functions
+        Console.WriteLine("Starting Curricel.Core");
         
-        # Starting services
-        startOllama();
-        extractPDF();
-        
-        ConnectDB();
-        
-        
-        # testing databse indexing and adding content
-        addTopic();
-        addConcept();
-        addCourse();
-
+        # Building test based developement console app
         
         
     }

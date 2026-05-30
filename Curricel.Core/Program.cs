@@ -6,7 +6,7 @@ public class Program
     {
         Console.WriteLine("Starting Curricel.Core");
         
-        # Building test based developement console app
+        // Build test based developement console app
         
         
     }

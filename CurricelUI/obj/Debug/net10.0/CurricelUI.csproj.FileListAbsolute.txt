@@ -1,0 +1,15 @@
+/home/hugo/RiderProjects/CurricelUI/CurricelUI/bin/Debug/net10.0/CurricelUI
+/home/hugo/RiderProjects/CurricelUI/CurricelUI/bin/Debug/net10.0/CurricelUI.deps.json
+/home/hugo/RiderProjects/CurricelUI/CurricelUI/bin/Debug/net10.0/CurricelUI.runtimeconfig.json
+/home/hugo/RiderProjects/CurricelUI/CurricelUI/bin/Debug/net10.0/CurricelUI.dll
+/home/hugo/RiderProjects/CurricelUI/CurricelUI/bin/Debug/net10.0/CurricelUI.pdb
+/home/hugo/RiderProjects/CurricelUI/CurricelUI/obj/Debug/net10.0/CurricelUI.GeneratedMSBuildEditorConfig.editorconfig
+/home/hugo/RiderProjects/CurricelUI/CurricelUI/obj/Debug/net10.0/CurricelUI.AssemblyInfoInputs.cache
+/home/hugo/RiderProjects/CurricelUI/CurricelUI/obj/Debug/net10.0/CurricelUI.AssemblyInfo.cs
+/home/hugo/RiderProjects/CurricelUI/CurricelUI/obj/Debug/net10.0/CurricelUI.csproj.CoreCompileInputs.cache
+/home/hugo/RiderProjects/CurricelUI/CurricelUI/obj/Debug/net10.0/CurricelUI.sourcelink.json
+/home/hugo/RiderProjects/CurricelUI/CurricelUI/obj/Debug/net10.0/CurricelUI.dll
+/home/hugo/RiderProjects/CurricelUI/CurricelUI/obj/Debug/net10.0/refint/CurricelUI.dll
+/home/hugo/RiderProjects/CurricelUI/CurricelUI/obj/Debug/net10.0/CurricelUI.pdb
+/home/hugo/RiderProjects/CurricelUI/CurricelUI/obj/Debug/net10.0/CurricelUI.genruntimeconfig.cache
+/home/hugo/RiderProjects/CurricelUI/CurricelUI/obj/Debug/net10.0/ref/CurricelUI.dll
